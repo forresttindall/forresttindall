@@ -1,4 +1,4 @@
-![github bio](https://github.com/forresttindall/forresttindall/assets/144488579/e6f1c747-ed98-4105-b202-8ef5ed9e37d4)
+![github bio](https://github.com/forresttindall/forresttindall/assets/144488579/5427ad37-36c3-4530-8a27-4a614054cee5)
 
 ### Hi there, I'm Forrest Tindall 👋
 
