@@ -5,13 +5,13 @@
 #### Full-stack Developer | App Dev | Front-end Design Enthusiast
 
 🌐 **Website:** [forresttindall.com](https://forresttindall.com)  
-🎣 **Passionate about:** Outdoors & Fishing
+🛜 **Passionate about:** Hacking, Wardriving, Electrical Engineering, Open Source, 3D printing, and Fishing
 
 ---
 
 ### About Me
 
-🚀 Full-stack developer with a knack for crafting sleek front-end designs. My toolkit includes:
+🚀 Full-stack developer with a passion for crafting sleek front-end designs. My toolkit includes:
 - **Languages:** HTML, CSS, JavaScript, SQL
 - **Frameworks & Libraries:** React, Redux, Node.js, Express.js
 - **Databases:** PostgreSQL
