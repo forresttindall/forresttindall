@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi there, I'm Forrest Tindall 👋
 
-<!--
-**forresttindall/forresttindall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Full-stack Developer | App Dev | Front-end Design Enthusiast
 
-Here are some ideas to get you started:
+🌐 **Website:** [forresttindall.com](https://forresttindall.com)  
+🎣 **Passionate about:** Outdoors & Fishing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+🚀 Full-stack developer with a knack for crafting sleek front-end designs. My toolkit includes:
+- **Languages:** HTML, CSS, JavaScript, SQL
+- **Frameworks & Libraries:** React, Redux, Node.js, Express.js
+- **Databases:** PostgreSQL
+- **Design Tools:** Adobe Suite, Figma
+- **Version Control:** Git
+
+---
+
+### Current Projects
+
+🔍 **Bug Finder App:** Creating a detector and crowdsourced map for credit card skimmers, hidden cameras, and two-way mirrors. [bugfinderapp.com](http://bugfinderapp.com)
+
+🛠 **JHewett Wardriver:** Contributing to an open-source wardriver project by integrating RGB LED lights for enhanced functionality.
+
+---
+
+### Get in Touch
+
+📧 **Contact:** Reach out through the contact form on my [website](https://forresttindall.com) for collaboration or inquiries.
+
