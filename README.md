@@ -1,5 +1,5 @@
+![github bio](https://github.com/forresttindall/forresttindall/assets/144488579/e6f1c747-ed98-4105-b202-8ef5ed9e37d4)
 
-![github bio](https://github.com/forresttindall/forresttindall/assets/144488579/fd4d2021-f3be-479f-9b72-ffd3ee3e8562)
 ### Hi there, I'm Forrest Tindall 👋
 
 #### Full-stack Developer | App Dev | Front-end Design Enthusiast
