@@ -27,7 +27,7 @@
 
 🛠 **JHewett Wardriver:** Contributing to an open-source wardriver project by integrating RGB LED lights for enhanced functionality.
 
-📡 **A Magsafe Compatible Meshtastic LoRa radio called the MK1 PiggyBack. More comming soon!
+📡 **A Magsafe Compatible Meshtastic LoRa radio called the MK2 PiggyBack. More comming soon!
 
 ---
 
