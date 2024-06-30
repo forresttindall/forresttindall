@@ -25,9 +25,9 @@
 
 🔍 **Bug Finder App:** Creating a detector and crowdsourced map for credit card skimmers, hidden cameras, and two-way mirrors. [bugfinderapp.com](http://bugfinderapp.com)
 
-🛠 **JHewett Wardriver:** Contributing to an open-source wardriver project by integrating RGB LED lights for enhanced functionality.
+🛠 **JHewett Wardriver:** Contributing to an open-source wardriver project by integrating RGB LED lights for enhanced functionality. [See here](https://github.com/forresttindall/RGB-JHewitt-Wardriver)
 
-📡 **A Magsafe Compatible Meshtastic LoRa radio. [Link](https://github.com/forresttindall/Meshtastic-LoRa-Radio)
+📡 **A Magsafe Compatible Meshtastic LoRa radio. [See here](https://github.com/forresttindall/Meshtastic-LoRa-Radio)
 
 ---
 
