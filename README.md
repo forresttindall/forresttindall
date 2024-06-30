@@ -1,5 +1,5 @@
 
-![github-bio](https://github.com/forresttindall/forresttindall/assets/144488579/aad3fae0-9e86-47d4-bf05-0fad5db7e5c5)
+![github-readme](https://github.com/forresttindall/forresttindall/assets/144488579/4f579f9f-52fc-470f-9d8d-81822db2aadb)
 
 ### Hi there, I'm Forrest Tindall 👋
 
