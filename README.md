@@ -28,7 +28,7 @@
 
 📡 **A Magsafe Compatible Meshtastic LoRa radio. [See here](https://github.com/forresttindall/Meshtastic-LoRa-Radio)
 
-🔍 **STRIDER a credit card skimmer detector and disabler. More coming soon!
+🔍 **STRIDER a credit card skimmer detector and disabler. More coming soon! [See here](https://www.forresttindall.com/strider.html)
 
 ---
 
