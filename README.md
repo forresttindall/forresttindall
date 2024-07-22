@@ -11,10 +11,9 @@
 
 ### About Me
 
-🚀 Full-stack developer with a passion for crafting sleek front-end designs. My toolkit includes:
-- **Languages:** HTML, CSS, JavaScript, SQL
+🚀 Software Engineer with a passion for crafting sleek front-end designs. My toolkit includes:
+- **Languages:** HTML, CSS, JavaScript, 
 - **Frameworks & Libraries:** React, Redux, Node.js, Express.js
-- **Databases:** PostgreSQL
 - **Design Tools:** Adobe Suite, Figma
 - **Version Control:** Git
 
