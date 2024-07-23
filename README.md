@@ -11,7 +11,7 @@
 
 ### About Me
 
-🚀 Software Engineer with a passion for crafting sleek front-end designs. My toolkit includes:
+🚀 Full-stack engineer with a passion for crafting sleek front-end designs. My toolkit includes:
 - **Languages:** HTML, CSS, JavaScript, 
 - **Frameworks & Libraries:** React, Redux, Node.js, Express.js
 - **Design Tools:** Adobe Suite, Figma
