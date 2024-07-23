@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Forrest Tindall 👋
 
-### Software Engineer | Hacker | Designer | Electrical Engineer
+### Full-Stack Engineer | Hacker | Designer | Electrical Engineer
 
 🌐 **Website:** [forresttindall.com](https://forresttindall.com)  
 🛜 **Passionate about:** Hacking, Wardriving, Electrical Engineering, Open Source, 3D printing, and Fishing
