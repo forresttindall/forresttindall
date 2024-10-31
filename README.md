@@ -2,16 +2,16 @@
 
 ### Hi there, I'm Forrest Tindall 👋
 
-### Full-Stack Engineer | Hacker | Designer | Engineer
+### Frontend Engineer  Designer | Engineer | Hacker |
 
 🌐 **Website:** [forresttindall.com](https://forresttindall.com)  
-🛜 **Passionate about:** Hacking, Wardriving, Electrical Engineering, Open Source, 3D printing, and Fishing
+🛜 **Passionate about:** Ethical Hacking, Wardriving, Electrical Engineering, Open Source, 3D printing, and Fishing
 
 ---
 
 ### About Me
 
-🚀 Full-stack engineer with a passion for crafting sleek front-end designs. My toolkit includes:
+🚀 Frontend engineer with a passion for crafting sleek designs. My toolkit includes:
 - **Languages:** HTML, CSS, JavaScript, 
 - **Frameworks & Libraries:** React, Redux, Node.js, Express.js
 - **Design Tools:** Adobe Suite, Figma
