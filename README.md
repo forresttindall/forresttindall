@@ -2,10 +2,10 @@
 
 ### Hi there, I'm Forrest Tindall 👋
 
-### Frontend Engineer  Designer | Engineer | Hacker |
+### Frontend Engineer | Designer | Engineer | Hacker |
 
 🌐 **Website:** [forresttindall.com](https://forresttindall.com)  
-🛜 **Passionate about:** Ethical Hacking, Wardriving, Electrical Engineering, Open Source, 3D printing, and Fishing
+🛜 **Passionate about:**  Open Source, 3D printing, Electrical Engineering, Ethical Hacking, Wardriving, and Fishing
 
 ---
 
