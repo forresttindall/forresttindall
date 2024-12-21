@@ -5,7 +5,7 @@
 ### Frontend Engineer | Designer | Engineer | Hacker |
 
 🌐 **Website:** [forresttindall.com](https://forresttindall.com)  
-🛜 **Passionate about:**  Open Source, 3D printing, Electrical Engineering, Ethical Hacking, Wardriving, and Fishing
+🛜 **Passionate about:**  Open Source, Web3, Blockchain, 3D printing, Electrical Engineering, Ethical Hacking, Wardriving, and Fishing
 
 ---
 
