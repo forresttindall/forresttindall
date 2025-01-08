@@ -1,4 +1,5 @@
-![github-readme](https://github.com/forresttindall/forresttindall/assets/144488579/4f50ddd4-a0db-4139-9798-c1434fa2aeef)
+
+![mearizona 2](https://github.com/user-attachments/assets/14384a28-63d3-420c-8847-864c50ce2083)
 
 ### Hi there, I'm Forrest Tindall 👋
 
