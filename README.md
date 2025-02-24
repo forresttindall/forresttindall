@@ -1,22 +1,22 @@
 
 ![mearizona 2](https://github.com/user-attachments/assets/14384a28-63d3-420c-8847-864c50ce2083)
 
-### Hi there, I'm Forrest Tindall 👋
+# Hi, I'm Forrest Tindall 👋
 
-### Frontend Engineer | Designer | Engineer | Hacker |
+## Frontend Engineer | Designer | Builder | Pentester |
 
-🌐 **Website:** [forresttindall.com](https://forresttindall.com)  
-🛜 **Passionate about:**  Open Source, Web3, Blockchain, 3D printing, Electrical Engineering, Ethical Hacking, Wardriving, and Fishing
+### 🌐 Website: [forresttindall.com](https://forresttindall.com)  
+### 🛜 Passionate about: Open Source, Web3, Blockchain, 3D printing, Electrical Engineering, Ethical Pentesting, Wardriving, and Fishing
 
 ---
 
 ### About Me
 
-🚀 Frontend engineer with a passion for crafting sleek designs. My toolkit includes:
-- **Languages:** HTML, CSS, JavaScript, 
-- **Frameworks & Libraries:** React, Redux, Node.js, Express.js
-- **Design Tools:** Adobe Suite, Figma
-- **Version Control:** Git
+Frontend engineer with a passion for crafting sleek designs. My toolkit includes:
+- Languages: HTML, CSS, JavaScript, 
+- Frameworks & Libraries: React, Redux, Node.js, Express.js
+- Design Tools: Adobe Suite, Figma
+- Version Control: Git
 
 ---
 
@@ -33,7 +33,9 @@
 
 ---
 
-### Get in Touch
+## Get in Touch
 
-📧 **Contact:** Reach out through the contact form on my [website](https://forresttindall.com) for collaboration or inquiries.
+### Contact: 
+
+Reach out through the contact form on my [website](https://forresttindall.com) for collaboration or inquiries.
 
