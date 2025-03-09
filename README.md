@@ -22,7 +22,7 @@ Frontend engineer with a passion for crafting sleek designs. My toolkit includes
 
 ### Current Projects
 
-📡 **WiGLE Uploader:** Created a WiGLE.net wardriving batch uploader and badge image generator [wigleuploader.net](htts://wigleuploader.net)
+📡 **WiGLE Uploader:** Created a WiGLE.net wardriving batch uploader and badge image generator [wigleuploader.net](https://wigleuploader.net)
 
 ⚛️ **QuantumKeep:** Creating a zero-knowledge, quantum radnomness, encryption webapp, [quantumkeep.io](https://quantumkeep.io)
 
