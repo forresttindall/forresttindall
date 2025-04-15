@@ -3,10 +3,10 @@
 
 # Hi, I'm Forrest Tindall 👋
 
-## Frontend Engineer | Designer | Builder | Pentester |
+## Frontend Engineer | Designer | Builder | Pentester | Photographer |
 
 ### 🌐 Website: [forresttindall.dev](https://forresttindall.dev)  
-### 🛜 Passionate about: Open Source, Web3, Blockchain, 3D printing, Electrical Engineering, Ethical Pentesting, Wardriving, and Fishing
+### 🛜 Passionate about: Open Source, Web3, Blockchain, 3D printing, Electrical Engineering, Ethical Pentesting, Wardriving, Photography, and Fishing
 
 ---
 
