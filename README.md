@@ -1,6 +1,4 @@
 
-![mearizona 2](https://github.com/user-attachments/assets/14384a28-63d3-420c-8847-864c50ce2083)
-
 # Hi, I'm Forrest Tindall 👋
 
 ## Software Engineer | Designer | Builder | Pentester | Photographer |
