@@ -11,7 +11,7 @@
 ### About Me
 
 Software engineer with a passion for crafting sleek designs. My toolkit includes:
-- Languages: JavaScript, HTML, CSS.
+- Languages: JavaScript, HTML, CSS. SQL
 - Frameworks & Libraries: React, Redux, Node.js, Express.js
 - Design Tools: Adobe Suite, Figma
 - Version Control: Git
