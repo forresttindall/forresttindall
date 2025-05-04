@@ -24,7 +24,7 @@ Software engineer with a passion for crafting sleek designs. My toolkit includes
 
 ⚛️ **QuantumKeep:** Creating a zero-knowledge, quantum radnomness, encryption webapp, [quantumkeep.io](https://quantumkeep.io)
 
-🛠 **JHewett Wardriver:** Contributing to an open-source wardriver project by integrating RGB LED lights for enhanced functionality. [See here](https://github.com/forresttindall/RGB-JHewitt-Wardriver)
+📰 **ClearFeed:** Converting the current self hosted version into a full desktop application available on Mac, Windows, and Linux.
 
 
 
