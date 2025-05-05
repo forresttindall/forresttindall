@@ -1,7 +1,7 @@
 
 # Hi, I'm Forrest Tindall 👋
 
-## Software Engineer | Designer | Builder | Pentester | Photographer |
+## Software Engineer | Designer | Builder | Photographer |
 
 ### 🌐 Website: [forresttindall.dev](https://forresttindall.dev)  
 ### 🛜 Passionate about: Open Source, Web3, Blockchain, 3D printing, Electrical Engineering, Ethical Pentesting, Wardriving, Photography, and Fishing
