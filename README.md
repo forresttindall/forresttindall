@@ -1,2 +1,28 @@
-![github-readme](https://github.com/user-attachments/assets/13207a4b-9979-4901-8bf1-b7b3a83effe6)
+
+```
+const forrestTindall = {
+  kernel: "Forrest Tindall",
+  uptime: "33 years",
+  os: "CEO - Software Engineer",
+  affiliation: ["Creationbase"],
+  modules: [
+    "Custom Web Development",
+    "Custom App Development",
+    "Web3 Development"
+  ],
+  protocols: [
+    "Film Photography",
+    "Wardriving",
+    "Fishing"
+  ],
+  links: {
+    web: "https://forresttindall.dev/",
+    lab: "https://creationbase.io",
+    threads: "https://threads.net/@forrest.builds",
+    farcaster: "https://warpcast.com/forresttindall",
+    bluesky: "https://bsky.app/profile/forresttindall.dev",
+    instagram: "https://instagram.com/forrest.tindall"
+  }
+};
+```
 [![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/forresttindall)
